@@ -88,7 +88,6 @@ int main(){
                     printf("                                                                                                \n");
                     printf("                                 The Amount For The Tickets:%d /-\n",amt);
                     printf("                                                                                                \n");
-                    printf("                                 Further Queries please, Contact: Joshika@gmail.com\n");
                 
                 }
             }
@@ -133,7 +132,6 @@ int main(){
                     printf("                                                                                                \n");
                     printf("                                 The Amount For The Tickets:%d /-\n",amt);
                     printf("                                                                                                \n");
-                    printf("                                 Further Queries please, Contact: Joshika@gmail.com\n");
                 
                 }
             }
@@ -178,7 +176,6 @@ int main(){
                     printf("                                                                                                \n");
                     printf("                                 The Amount For The Tickets:%d /-\n",amt);
                     printf("                                                                                                \n");
-                    printf("                                 Further Queries please, Contact: Joshika@gmail.com\n");
                 
                 }
             }
